@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "d69d",
+      "productName": "📱 ",
+      "productImage": "https://m.media-amazon.com/images/I/41pR0qlI0yL._SX300_SY300_QL70_FMwebp_.jpg",
+      "price": "400",
+      "desc": "wow ",
+      "available": true
+    },
+    {
+      "id": "8168",
+      "productName": "mobile3",
+      "productImage": "https://m.media-amazon.com/images/I/41pR0qlI0yL._SX300_SY300_QL70_FMwebp_.jpg",
+      "price": "700",
+      "desc": "this is a watch",
+      "available": true
+    },
+    {
+      "id": "a589",
+      "productName": "watch",
+      "productImage": "https://m.media-amazon.com/images/I/41pR0qlI0yL._SX300_SY300_QL70_FMwebp_.jpg",
+      "price": "344",
+      "desc": "watch",
+      "available": true
+    },
+    {
+      "id": "ce1a",
+      "productName": "mobile",
+      "productImage": "https://m.media-amazon.com/images/I/41pR0qlI0yL._SX300_SY300_QL70_FMwebp_.jpg",
+      "price": "0",
+      "desc": "as",
+      "available": true
+    }
+  ]
+}
